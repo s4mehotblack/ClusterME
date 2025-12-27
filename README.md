@@ -25,7 +25,7 @@ Alternatively, you can run individual steps manually as described in the [Pipeli
 
 ### Data Sources
 1.  **Gene List**: You must provide your own list of genes of interest (one gene symbol per line in a `.txt` file).
-2.  **GTEx Data**: Download the following from the [GTEx Portal (Adult Data)](https://gtexportal.org/home/downloads/adult-gtex). Select **"Reference"** and **"Metadata"** data types to obtain:
+2.  **GTEx Data**: Download the following from the [GTEx Portal (Adult Data)](https://gtexportal.org/home/downloads/adult-gtex). Select **"Bulk Tissue Expression"** and **"Metadata"** data types to obtain:
     *   **Gene TPMs**: `GTEx_Analysis_2017-06-05_v8_RNASeQCv1.1.9_gene_tpm.gct.gz` (or v10 equivalent).
     *   **Sample Attributes**: `GTEx_Analysis_v8_Annotations_SampleAttributesDS.txt` (or v10 equivalent).
 
